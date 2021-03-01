@@ -71,7 +71,7 @@ function FizzBuzz(n) {
         <div class="container">
             <div class="section__inner">
                 <h2 class="title">Projects</h2>
-                <a href="пппп class="project">здесь могла быть ваша реклама :)</a>
+                <h4 class="project">здесь могла быть ваша реклама :)</h4>
             </div>
         </div>
     </section>
